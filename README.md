@@ -34,8 +34,6 @@ morgan: HTTP request logger.
 
 express-validator: Middleware to validate and sanitize incoming request data.
 
-jsonwebtoken: For JWT-based authentication (optional feature).
-
 Prerequisites
 
 Node.js: v14 or higher
